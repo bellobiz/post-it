@@ -1,7 +1,7 @@
 {
   "name": "postit-master",
   "version": "1.0.0",
-  "description": "",
+  "description": "- A simple, light weight communication platform for web developers - It is a fully front-end app made with HTML, CSS and JavaScript (and webpack and babel dependencies and packages) - You can find the deployed project at https://belloosagienoah.github.io/postit/ - You can also find the project repository at https://github.com/belloosagienoah/postit - See more of my projects at https://github.com/belloosagienoah/ - Website at [`TechStack`](https://techstack.surge.sh) - You can support me on [kofi](https://ko-fi.com/ts4all)",
   "main": "msg.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,11 +14,25 @@
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
+    "concurrently": "^5.2.0",
+    "jshint": "^2.11.0",
+    "lite-server": "^2.5.4",
+    "mocha": "^7.1.2",
+    "node-sass": "^4.14.1",
+    "uglify-js": "^3.9.2",
     "webpack": "^2.7.0",
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
     "package-lock.json": "^1.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techstack-git/post-it.git"
+  },
+  "bugs": {
+    "url": "https://github.com/techstack-git/post-it/issues"
+  },
+  "homepage": "https://github.com/techstack-git/post-it#readme"
 }
