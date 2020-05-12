@@ -41,7 +41,7 @@ button {
   color: #fff;
 }
 
-.material-icons {
+span.material-icons {
   position: relative;
   top: 64px;
   left: 0.4%;
