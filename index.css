@@ -149,16 +149,6 @@ li.nav-item {
   max-width: 100%;
 }
 
-#myUL {
-  margin-top: 5px;
-}
-
-#myUL li {
-  white-space: pre-wrap;
-  word-break: break-word;
-  background-color: #33df9de1;
-}
-
 .header {
   background-color: #f0f0f0;
   padding-top: 10px;

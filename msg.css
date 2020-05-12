@@ -1,9 +1,11 @@
 #myUL {
-  margin-top: 64px;
+  margin-top: 65px;
 }
 
 #myUL li {
   cursor: text;
+  white-space: pre-wrap;
+  word-break: break-word;
   background-color: #fff;
   border-radius: 4px;
   padding: 10px;
@@ -11,6 +13,7 @@
   max-height: 360px;
   margin-left: 10%;
   margin-right: 3%;
+  margin-top: 10px;
   font-size: medium;
   font-family: 'Roboto Condensed', sans-serif;
 }
