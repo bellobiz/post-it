@@ -7,7 +7,7 @@
   background-repeat: no-repeat;
   width: 100%;
   position: fixed;
-  top: 55.5%;
+  top: 55%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
@@ -43,7 +43,7 @@ i.icon.material-icons {
   border: .1em solid #fff;
 }
 
-nav a.tab {
+nav a {
   list-style: none;
   padding: 30px;
   color: #fff;
@@ -53,14 +53,14 @@ nav a.tab {
   transition: all .3s ease-in-out;
 }
 
-nav a.tab:hover {
+nav a:hover {
   color: #000;
   cursor: pointer;
   -webkit-transform: scale(1.2);
           transform: scale(1.2);
 }
 
-nav a.tab:first-child {
+nav a:first-child {
   margin-top: 7px;
 }
 
@@ -98,7 +98,8 @@ nav a.active {
   margin-top: 10px;
 }
 
-.input {
+.input,
+p {
   border: 0;
   border-bottom: 1px solid #3fb6a8;
   width: 80%;
@@ -109,7 +110,7 @@ nav a.active {
   outline: none;
 }
 
-.span {
+span {
   font-size: .7em;
   color: #777;
 }

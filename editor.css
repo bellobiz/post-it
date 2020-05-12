@@ -19,7 +19,7 @@
   border-radius: 4px;
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
-  outline-color: #444;
+  outline-color: #33df9de1;
 }
 
 .dark-mode {
@@ -29,7 +29,7 @@
   border-radius: 4px;
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
-  outline-color: #fff;
+  outline-color: #33df9de1;
 }
 
 button {

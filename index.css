@@ -121,7 +121,7 @@ li.nav-item {
   flex: 0 0 0;
   max-width: 0;
   color: white;
-  background-color: purple;
+  background-color: #444;
   z-index: 8000;
   top: 59px;
   position: fixed;
@@ -150,13 +150,13 @@ li.nav-item {
 }
 
 #myUL {
-  margin-top: 65px;
+  margin-top: 5px;
 }
 
 #myUL li {
   white-space: pre-wrap;
   word-break: break-word;
-  background-color: #fff;
+  background-color: #33df9de1;
 }
 
 .header {
@@ -326,5 +326,9 @@ i.far.fa-paper-plane {
   i.far.fa-paper-plane {
     left: 83%;
   }
+}
+
+footer {
+  padding-top: 60px;
 }
 /*# sourceMappingURL=index.css.map */
