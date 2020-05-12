@@ -1,5 +1,13 @@
 #myUL li {
     cursor: text;
+    border-radius: 4px;
+    padding: 10px;
+    overflow: auto;
+    max-height: 360px;
+    margin-left: 10%;
+    margin-right: 3%;
+    font-size: medium;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 span.close {
